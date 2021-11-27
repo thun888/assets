@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Notes</title>
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/mdui@1.0.1/dist/css/mdui.min.css"/>
+  <style>
+    body {
+      --bg: url("https://cdn.jsdelivr.net/gh/thun888/tuku@master/img/background.bc725154.png");
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-attachment: fixed;
+      background-image: var(--bg);
+    }
+  
+    .mdui-shadow-3 {
+      background: rgba(255, 255, 255, 0.5);
+    }
+  </style>
+</head>
+
+
+
+<body class="mdui-appbar-with-toolbar">
+        <div class="mdui-appbar mdui-appbar-fixed">
+          <div class="mdui-toolbar mdui-color-blue-grey-100">
+            <span class="mdui-btn mdui-btn-icon mdui-ripple mdui-ripple-white" id="toggle"><i class="mdui-icon material-icons">menu</i></span>
+            <a href="javascript:;" class="mdui-typo-headline">Notes</a>
+            <div class="mdui-toolbar-spacer"></div>
+          </div>
+        </div>
+        
+<!--卡片-->
+<div class="mdui-container">
+  <div class="mdui-row">
+    <div class="mdui-col-xs-12 mdui-col-sm-6 mdui-col-md-5">
+      <div class="mdui-card">
+        <div class="mdui-card-media">
+          <img src="https://raw.thun888.xyz/thun888/asstes/master/img/notes.svg" alt="">
+            <div class="mdui-card-primary">
+              <div class="mdui-card-primary-title">Notes</div>
+              <div class="mdui-card-primary-subtitle">生活的事</div>
+          </div>
+        </div>
+        <div class="mdui-card-content">
+          <p>在查看前需要验证哦~<br>By thun888</p>
+        </div>
+      </div>
+    </div>
+    <div class="mdui-col-xs-12 mdui-col-sm-6 mdui-col-md-7">
+      <div class="mdui-card">
+        <div class="mdui-card-content mdui-text-center">
+          <div><i class="mdui-icon material-icons">lock</i>         登录</div>
+        </div>
+    <div style="width:80%;" class="mdui-center">
+      <div class="mdui-textfield mdui-textfield-floating-label">
+          <label class="mdui-textfield-label">站点ID</label>
+          <input class="mdui-textfield-input"  id="webid" type="text"/>
+      </div>
+      <div class="mdui-textfield mdui-textfield-floating-label">
+          <label class="mdui-textfield-label">pagekey</label>
+          <input class="mdui-textfield-input"  id="pagekey" type="text"/>
+    </div>
+  </div>
+  <div class="mdui-card-actions">
+    <button class="mdui-btn mdui-ripple" id="clean">clean</button>
+    <button class="mdui-btn mdui-ripple mdui-float-right" id="send">ok</button>
+  </div>
+</div> 
+</div>
+
+
+
+<div class="mdui-drawer mdui-drawer-close mdui-color-blue-grey-100" id="drawer">
+  <ul class="mdui-list">
+    <li class="mdui-subheader">Web</li>
+    <li class="mdui-list-item mdui-ripple">
+      <i class="mdui-list-item-icon mdui-icon material-icons">web</i>
+      <a href="https://blog.thun888.xyz" class="mdui-list-item-content">BLOG</a>
+    </li>
+
+
+    <li class="mdui-subheader">Others</li>
+    <li class="mdui-list-item mdui-ripple">
+      <i class="mdui-list-item-icon mdui-icon material-icons">bookmark</i>
+      <a href="https://blog.thun888.xyz/about" class="mdui-list-item-content">About</a>
+    </li>
+  </ul>
+</div>
+<script src="//cdn.jsdelivr.net/npm/mdui@1.0.1/dist/js/mdui.min.js"></script>
+<script src="/index.js"></script>
+</body>
+</html>
