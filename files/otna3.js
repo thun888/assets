@@ -27,7 +27,7 @@ fetch(otna_url, {
                 document.getElementById("otna_site_online").innerHTML = otna_res.online;
             }
             if (document.getElementById("otna_delay")) {
-                document.getElementById("otna_delay").innerHTML = abs(otna_nowtime - otna_res.delay) + "ms";
+                document.getElementById("otna_delay").innerHTML = Math.abs(otna_nowtime - otna_res.delay) + "ms";
             }
         } else {
             console.log("Otn Analytics Error");
