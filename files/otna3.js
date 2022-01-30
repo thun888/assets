@@ -2,7 +2,7 @@
 //version 0.0.2
 var otna_domain = window.location.host;
 var otna_pathname = window.location.pathname;
-var otna_url = "https://tongji.thun888.xyz:456/index.php";
+var otna_url = "https://tongji.thun888.xyz/index.php";
 var otna_nowtime = new Date().getTime()
 fetch(otna_url, {
         method: 'POST',
