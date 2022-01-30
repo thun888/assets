@@ -36,7 +36,7 @@ function otna_write(a,b,c,d,e){
     if (document.getElementById("otna_site_online")) {
         document.getElementById("otna_site_online").innerHTML = d;
     }
-    if (document.getElementById("otna_delay")) {
-        document.getElementById("otna_delay").innerHTML = e;
+    if (document.getElementById("otna_value_delay")) {
+        document.getElementById("otna_value_delay").innerHTML = e;
     }
 }
