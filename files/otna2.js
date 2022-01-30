@@ -2,7 +2,7 @@
 //version 0.0.1
 var otna_domain = window.location.host;
 var otna_pathname = window.location.pathname;
-var url = "https://tongji.thun888.xyz/index.php";
+var url = "https://otna.thun888.xyz/index.php";
 fetch(url, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
