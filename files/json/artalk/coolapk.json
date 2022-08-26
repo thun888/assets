@@ -1,4 +1,4 @@
-[
+
 {
     "name": "酷安",
     "type": "image",
@@ -64,71 +64,4 @@
         "val": "https://raw.thun888.xyz/thun888/tuku/master/img/7c6194d2829148972aad0f70b5d8b5618048c6b6.png@.webp"
       }
     ]
-  },
-  {
-    "name": "酷安",
-    "type": "image",
-    "items": [
-      {
-        "key": "酷表面哭泣",
-        "val": "https://raw.thun888.xyz/thun888/tuku/master/img/1000efea0dd23e0261651e31ee647ceac0b55ab3.png@.webp"
-      },
-      {
-        "key": "酷表面开心",
-        "val": "https://bu.dusays.com/2021/09/19/234763aef620e.webp"
-      },
-      {
-        "key": "酷滑稽",
-        "val": "https://bu.dusays.com/2021/09/19/bd4f6dbb0c9a4.webp"
-      },
-      {
-        "key": "酷流汗滑稽",
-        "val": "https://bu.dusays.com/2021/09/19/7ac714a423888.webp"
-      },
-      {
-        "key": "酷受虐滑稽",
-        "val": "https://bu.dusays.com/2021/09/19/4b7d85fc423d9.webp"
-      },
-      {
-        "key": "酷cos滑稽",
-        "val": "https://bu.dusays.com/2021/09/19/0ade7e9c25f8a.webp"
-      },
-      {
-        "key": "酷斗鸡眼滑稽",
-        "val": "https://bu.dusays.com/2021/09/19/f40c5b2d5b7ab.webp"
-      },
-      {
-        "key": "酷墨镜滑稽",
-        "val": "https://bu.dusays.com/2021/09/19/2c4244215fcf5.webp"
-      },
-      {
-        "key": "酷小嘴滑稽",
-        "val": "https://bu.dusays.com/2021/09/19/54fee6e326bba.webp"
-      },
-      {
-        "key": "酷doge",
-        "val": "https://bu.dusays.com/2021/09/19/fd66bd212e0b7.webp"
-      },
-      {
-        "key": "酷doge笑哭",
-        "val": "https://bu.dusays.com/2021/09/19/f63426e589fb9.webp"
-      },
-      {
-        "key": "酷doge呵斥",
-        "val": "https://bu.dusays.com/2021/09/19/93ee1d7474fa2.webp"
-      },
-      {
-        "key": "酷doge原谅ta",
-        "val": "https://raw.thun888.xyz/thun888/tuku/master/img/104e205417a44c25c0ace9016b6af46ed6fe501b.png@.webp"
-      },
-      {
-        "key": "酷喵喵",
-        "val": "https://raw.thun888.xyz/thun888/tuku/master/img/043e91f948bd3f7226bf0942fe805e986eec0c83.png@.webp"
-      },
-      {
-        "key": "酷二哈",
-        "val": "https://raw.thun888.xyz/thun888/tuku/master/img/7c6194d2829148972aad0f70b5d8b5618048c6b6.png@.webp"
-      }
-    ]
   }
-]
