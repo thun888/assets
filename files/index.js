@@ -9,5 +9,5 @@ document.getElementById('toggle').addEventListener('click', function () {
   document.getElementById('send').addEventListener('click', function () {
     var webid = document.getElementById("webid").value;
     var pagekey = document.getElementById("pagekey").value;
-    window.location.href = "https://notes.thun888.xyz/notes?webid=" + webid + "&pagekey=" + pagekey;
+    window.location.href = "https://notes.hzchu.top/notes?webid=" + webid + "&pagekey=" + pagekey;
   });

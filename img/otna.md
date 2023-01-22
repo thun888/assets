@@ -27,7 +27,7 @@ Otn Analytics,一个记录网站访问的工具
 
 **实例效果**
 
-![image-20220102184249485](https://raw.thun888.xyz/thun888/asstes/master/img/image-20220102184249485.png)
+![image-20220102184249485](https://raw.hzchu.top/thun888/asstes/master/img/image-20220102184249485.png)
 
 #### Todo
 
