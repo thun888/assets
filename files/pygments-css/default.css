@@ -73,3 +73,13 @@
     padding-right: 0.5em;
     display: flex;
 }
+.highlightcode-meta {
+    background-color: #f7f7f7;
+    padding: 10px;
+    color: #656d76
+}
+
+.highlightcode-meta > a  {
+    text-decoration: none;
+    color: #404040
+}
