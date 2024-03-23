@@ -71,7 +71,7 @@
     text-align: right;
     color: gray;
     padding-right: 0.5em;
-    display: flex;
+/*     display: flex; */
 }
 .highlightcode-meta {
     background-color: #f1f2f3;
