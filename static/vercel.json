@@ -4,14 +4,6 @@
             "source": "(.*)",
             "headers": [
                 {
-                    "key": "Access-Control-Allow-Origin",
-                    "value": "https://*.hzchu.top"
-                },
-                {
-                    "key": "Access-Control-Allow-Origin",
-                    "value": "https://*.757678.xyz"
-                },
-                {
                     "key": "Cache-Control",
                     "value": "public, s-maxage=86400, max-age=86400"
                   }, {
