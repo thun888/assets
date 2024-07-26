@@ -1,0 +1,1 @@
+!function(e){"use strict";blessing.event.on("emailDomainsSuggestion",e=>{var n;const t=document.querySelector("#allowed-email-domains");if(!t)return;const o=JSON.parse(null!==(n=t.textContent)&&void 0!==n?n:"[]");o.length>0&&(e.clear(),o.forEach(n=>e.add(n)))})}();
