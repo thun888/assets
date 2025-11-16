@@ -8,7 +8,7 @@ on:
         required: true
         type: string
       path:
-        description: '保存路径（相对 static/）'
+        description: '保存路径（相对 static/）是路径，不要包含文件名！！！！！！'
         required: true
         type: string
 
